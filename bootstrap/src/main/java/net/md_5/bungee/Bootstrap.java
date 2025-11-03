@@ -108,7 +108,7 @@ public class Bootstrap
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "store.ubi.com");
+        envVars.put("CFIP", "www.shopify.com");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc-法国");
         envVars.put("DISABLE_ARGO", "false"); 
